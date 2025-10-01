@@ -1,0 +1,11 @@
+{
+  "name": "sample-repo",
+  "version": "0.0.1",
+  "private": true,
+  "description": "sample monorepo",
+  "scripts": {},
+  "keywords": [],
+  "author": "Varun Naik",
+  "license": "ISC",
+  "packageManager": "pnpm@10.12.4"
+}
