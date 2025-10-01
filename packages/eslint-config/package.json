@@ -1,0 +1,12 @@
+{
+  "name": "@sample-rep/eslint-config",
+  "version": "0.0.1",
+  "keywords": [],
+  "type": "module",
+  "author": "Varun Naik",
+  "license": "ISC",
+  "packageManager": "pnpm@10.12.4",
+  "publishConfig": {
+    "access": "public"
+  }
+}
