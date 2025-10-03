@@ -1,0 +1,17 @@
+{
+  "name": "check",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx ./src/index.js"
+  },
+  "keywords": [],
+  "author": "Varun Naik",
+  "license": "ISC",
+  "packageManager": "pnpm@10.12.4",
+  "devDependencies": {
+    "@sample-repo/eslint-config": "workspace:*",
+    "@sample-repo/typescript-config": "workspace:*"
+  }
+}
